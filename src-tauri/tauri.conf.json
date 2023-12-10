@@ -6,7 +6,7 @@
     "distDir": "../ui"
   },
   "package": {
-    "productName": "Swordbattle.io",
+    "productName": "swordbattle",
     "version": "0.1.0"
   },
   "tauri": {
@@ -28,7 +28,7 @@
         "icons/icon.icns",
         "icons/icon.ico"
       ],
-      "identifier": "com.tauri.dev",
+      "identifier": "io.swordbattle",
       "longDescription": "",
       "macOS": {
         "entitlements": null,
