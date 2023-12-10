@@ -1,5 +1,24 @@
 {
   "dependencies": {
     "tauri": "^0.15.0"
-  }
+  },
+  "name": "swordbattledesktopclient",
+  "version": "1.0.0",
+  "main": "build.mjs",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sk337/SwordBattleDesktopClient.git"
+  },
+  "author": "sk337",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sk337/SwordBattleDesktopClient/issues"
+  },
+  "homepage": "https://github.com/sk337/SwordBattleDesktopClient#readme",
+  "description": ""
 }
